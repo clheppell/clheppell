@@ -1,7 +1,7 @@
 # Chris Heppell
 
-I'm Chris, a fourth year computer science student at the University of Sheffield.
+I'm Chris, a Graduate Developer at  [Sage](https://www.sage.com)
 
-I also work on projects for [Chester-le-Street ASC](https://www.chesterlestreetasc.co.uk/) and through my own business, [Swimming Club Data Systems](https://myswimmingclub.uk/), I provide membership management software to a number of UK swimming clubs.
+I also work on small projects for [Chester-le-Street ASC](https://www.chesterlestreetasc.co.uk/) and other Swimming Clubs through [Swimming Club Data Systems](https://myswimmingclub.uk/).
 
 * [LinkedIn](https://www.linkedin.com/in/clheppell/)
